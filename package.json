@@ -1,5 +1,5 @@
 {
-  "name": "computed-style-to-inline-style",
+  "name": "@abt/computed-style-to-inline-style",
   "version": "3.0.0",
   "description": "Convert a HTML element's computed CSS to inline CSS.",
   "author": "Luke Horvat",
